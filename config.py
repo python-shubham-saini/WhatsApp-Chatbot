@@ -1,0 +1,1 @@
+CHROME_PROFILE_PATH = r"--user-data-dir=C:\\Users\\Heshvi\\AppData\\Local\\Google\\Chrome\User Data\wtsapp"
